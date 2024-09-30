@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import HelloWorld from '@/components/ConversationHistory.vue'
+import HelloWorld from '@/components/ChatBoot.vue'
 
 export default {
   name: 'App',
